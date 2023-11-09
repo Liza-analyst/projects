@@ -33,5 +33,3 @@
 - **SciPy**
 - **Matplotlib**
 
-## Презентация результатов
-https://drive.google.com/file/d/18I098girFEVYgu2EZDK326DfEaOsRS0B/view?usp=share_link
