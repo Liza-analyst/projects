@@ -13,3 +13,6 @@
 - **Tableau**
 - **продуктовые метрики**
 - **построение дашбордов**
+
+## Дашборд
+https://public.tableau.com/app/profile/liza.balashova/viz/Project_16808893148290/Dashboard1?publish=yes
